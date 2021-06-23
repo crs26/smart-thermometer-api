@@ -19,4 +19,4 @@ app.get('/api/:temp', (req, res) => {
     res.send('Success');
 })
 
-app.listen(3000, () => console.log('Listening on port 3000'));
+app.listen(3100, () => console.log('Listening on port 3100'));
